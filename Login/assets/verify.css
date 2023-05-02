@@ -1,0 +1,407 @@
+.css-1wz0uwi {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.binance-col {
+    position: relative;
+    max-width: 100%;
+    min-height: 1px;
+}
+
+.css-adn1vg {
+    max-width: 384px;
+}
+.css-adn1vg {
+    padding-top: 40px;
+    width: 385px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.css-adn1vg {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    padding-top: 24px;
+    max-width: 385px;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    max-width: 100%;
+    height: 100%;
+    flex-direction: column;
+}
+@media screen and (min-width: 767px)
+.css-adn1vg .bn-2fa-title {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.css-adn1vg .bn-2fa-title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: left;
+}
+.css-1qkrdne {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: rgb(30, 35, 41);
+}
+@media screen and (min-width: 767px)
+.css-adn1vg .bn-2fa-info.bn-2fa-table-info {
+    margin-bottom: 24px;
+    margin-top: 16px;
+}
+.css-adn1vg .bn-2fa-info.bn-2fa-table-info {
+    margin-bottom: 16px;
+    margin-top: 8px;
+}
+@media screen and (min-width: 767px)
+.css-adn1vg .bn-2fa-info {
+    color: rgb(71, 77, 87);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.css-adn1vg .bn-2fa-info {
+    text-align: left;
+    margin-top: 12px;
+    margin-bottom: 32px;
+    color: rgb(112, 122, 138);
+    line-height: 20px;
+    height: auto;
+    font-weight: 400;
+    font-size: 14px;
+}
+.css-15c6fsr {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    height: 24px;
+    line-height: 24px;
+    font-size: 12px;
+    color: rgb(112, 122, 138);
+}
+.css-key3v2 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    max-width: 100%;
+}
+.css-enhan1 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    align-items: flex-end;
+}
+.css-adn1vg .bn-2fa-field {
+    flex: 1 1 0%;
+}
+.css-1pnngcv {
+    box-sizing: border-box;
+    margin: 32px 0px 0px;
+    min-width: 0px;
+    display: inline-flex;
+    position: relative;
+    -webkit-box-align: center;
+    align-items: center;
+    line-height: 1.6;
+    border: 1px solid rgb(234, 236, 239);
+    border-radius: 4px;
+    height: 48px;
+    background-color: transparent;
+}
+.css-1pnngcv input {
+    color: rgb(30, 35, 41);
+    font-size: 14px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.css-16fg16t {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    outline: none;
+    border: none;
+    background-color: inherit;
+    opacity: 1;
+}
+.css-1pnngcv .bn-input-suffix {
+    flex-shrink: 0;
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size: 14px;
+}
+
+.css-adn1vg .bn-input-suffix {
+    color: rgb(240, 185, 11);
+}
+.css-1mme6xj {
+    box-sizing: border-box;
+    margin: 0px 12px 0px 0px;
+    min-width: 0px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
+    color: rgb(201, 148, 0);
+}
+.css-adn1vg .bn-2fa-field .bn-input-label {
+    color: rgb(30, 35, 41);
+    white-space: nowrap;
+    font-size: 14px;
+}
+.css-ievmzj {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    position: absolute;
+    top: -32px;
+    left: 0px;
+    line-height: 32px;
+    z-index: 1;
+    cursor: text;
+    color: rgb(71, 77, 87);
+    font-size: 14px;
+}
+.css-adn1vg .bn-2fa-fieldInfo {
+    margin-top: 4px;
+    margin-bottom: 20px;
+    line-height: 16px;
+    color: rgb(112, 122, 138);
+    height: auto;
+}
+
+.css-15c6fsr {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    height: 24px;
+    line-height: 24px;
+    font-size: 12px;
+    color: rgb(112, 122, 138);
+}
+.css-key3v2 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    max-width: 100%;
+}
+.css-enhan1 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    align-items: flex-end;
+}
+.css-adn1vg .bn-2fa-field {
+    flex: 1 1 0%;
+}
+
+.css-1pnngcv {
+    box-sizing: border-box;
+    margin: 32px 0px 0px;
+    min-width: 0px;
+    display: inline-flex;
+    position: relative;
+    -webkit-box-align: center;
+    align-items: center;
+    line-height: 1.6;
+    border: 1px solid rgb(234, 236, 239);
+    border-radius: 4px;
+    height: 48px;
+    background-color: transparent;
+}
+.css-1pnngcv input {
+    color: rgb(30, 35, 41);
+    font-size: 14px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.css-16fg16t {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    outline: none;
+    border: none;
+    background-color: inherit;
+    opacity: 1;
+}
+.css-1pnngcv .bn-input-suffix {
+    flex-shrink: 0;
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size: 14px;
+}
+
+.css-adn1vg .bn-input-suffix {
+    color: rgb(240, 185, 11);
+}
+.css-1mme6xj {
+    box-sizing: border-box;
+    margin: 0px 12px 0px 0px;
+    min-width: 0px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
+    color: rgb(201, 148, 0);
+}
+.css-adn1vg .bn-2fa-field .bn-input-label {
+    color: rgb(30, 35, 41);
+    white-space: nowrap;
+    font-size: 14px;
+}
+.css-ievmzj {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    position: absolute;
+    top: -32px;
+    left: 0px;
+    line-height: 32px;
+    z-index: 1;
+    cursor: text;
+    color: rgb(71, 77, 87);
+    font-size: 14px;
+}
+.css-adn1vg .bn-2fa-fieldInfo {
+    margin-top: 4px;
+    margin-bottom: 20px;
+    line-height: 16px;
+    color: rgb(112, 122, 138);
+    height: auto;
+}
+
+.css-15c6fsr {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    height: 24px;
+    line-height: 24px;
+    font-size: 12px;
+    color: rgb(112, 122, 138);
+}
+.css-ufg8u0 {
+    box-sizing: border-box;
+    margin: 0px 0px 40px;
+    min-width: 0px;
+}
+.css-adn1vg .bn-2fa-link {
+    color: rgb(201, 148, 0);
+    font-size: 14px;
+    line-height: 1.5;
+    text-decoration: none;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.css-m2io66 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    color: rgb(240, 185, 11);
+}
+.css-adn1vg .bn-2fa-submit {
+    margin-bottom: 24px;
+}
+.css-1a44hwu.inactive {
+    background-color: rgb(252, 213, 53);
+    opacity: 0.3;
+    color: rgb(24, 26, 32);
+    cursor: not-allowed;
+}
+.css-1a44hwu {
+    margin: 0px;
+    appearance: none;
+    user-select: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    padding: 12px 24px;
+    line-height: 24px;
+    min-width: 80px;
+    word-break: keep-all;
+    color: rgb(24, 26, 32);
+    border-radius: 4px;
+    min-height: 24px;
+    border: none;
+    background-image: none;
+    background-color: rgb(252, 213, 53);
+    width: 100%;
+}
+.css-6xx5k5 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: inherit;
+}
+.css-1a44hwu.inactive {
+    background-color: rgb(252, 213, 53);
+    opacity: 0.3;
+    color: rgb(24, 26, 32);
+    cursor: not-allowed;
+}
+.css-1a44hwu {
+    margin: 0px;
+    appearance: none;
+    user-select: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    padding: 12px 24px;
+    line-height: 24px;
+    min-width: 80px;
+    word-break: keep-all;
+    color: rgb(24, 26, 32);
+    border-radius: 4px;
+    min-height: 24px;
+    border: none;
+    background-image: none;
+    background-color: rgb(252, 213, 53);
+    width: 100%;
+}

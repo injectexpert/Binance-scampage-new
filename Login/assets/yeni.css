@@ -1,0 +1,963 @@
+.css-155nz97 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-height: 100vh;
+    color: #1E2329;
+    background-color: #FFFFFF;
+}
+.css-1b9spv1 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: contents;
+}
+
+@media screen and (min-width: 767px)
+.css-qf37yy {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.css-qf37yy {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: #FFFFFF;
+    height: 64px;
+    width: 100%;
+    padding-left: 8px;
+    padding-right: 8px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.css-qf37yy a, .css-qf37yy a:active, .css-qf37yy a:visited {
+    -webkit-text-decoration: none;
+    text-decoration: none;
+}
+.css-1qljeod {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: 14px;
+    outline: none;
+    cursor: pointer;
+    color: #1E2329;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    margin-left: 8px;
+    margin-right: 8px;
+    height: 100%;
+    color: #F0B90B;
+    -webkit-flex: none;
+    -ms-flex: none;
+    flex: none;
+}
+.css-4fx19t {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    color: currentColor;
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+    fill: #1E2329;
+    fill: currentColor;
+    width: 120px;
+    height: 24px;
+}
+.css-qf37yy >div {
+    height: 100%;
+}
+
+@media screen and (min-width: 767px)
+.css-1en9dhb {
+    pointer-events: auto;
+    visibility: visible;
+}
+.css-1en9dhb {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    color: #1E2329;
+    overflow: hidden;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    pointer-events: none;
+    visibility: hidden;
+}
+.css-11y6cix {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+.css-wu6zme {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex: none;
+    -ms-flex: none;
+    flex: none;
+}
+
+.css-143enlu {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    color: #1E2329;
+    font-size: 14px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.css-1f2m600 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    cursor: pointer;
+}
+.css-8bmaul {
+    box-sizing: border-box;
+    margin: 0px 8px;
+    min-width: 0px;
+    width: 1px;
+    height: 13px;
+    background-color: rgb(183, 189, 198);
+}
+.css-5dhyy8 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    color: currentcolor;
+    width: 16px;
+    height: 16px;
+    font-size: 16px;
+    fill: currentcolor;
+    cursor: pointer;
+}
+.css-15xjy3y {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    background-color: #FFFFFF;
+    -webkit-transition: all 1s;
+    transition: all 1s;
+    background-color: #FEF1F2;
+}
+.css-zy0fl3 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    margin-top: 0;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+.css-1432u7b {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    background-color: #FEF6D8;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.css-11gn95z {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    color: #0ECB81;
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+    fill: #1E2329;
+    fill: #0ECB81;
+    width: 1em;
+    height: 1em;
+    margin-right: 4px;
+}
+
+.css-1ldm553 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    margin-right: 4px;
+}
+.css-mx5ldy {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}
+.css-108ucgm {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-16kn2us {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    max-width: 1200px;
+    width: 100%;
+}
+.binance-row {
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-flow: row wrap;
+}
+.css-vurnku {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+}
+.binance-col-4 {
+    display: block;
+    flex: 0 0 16.6667%;
+    max-width: 16.6667%;
+}
+.binance-col {
+    position: relative;
+    max-width: 100%;
+    min-height: 1px;
+}
+.css-1wz0uwi {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.css-108ucgm {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+}
+@media screen and (min-width: 767px)
+.css-51cj2k {
+    margin-top: 40px;
+}
+.css-51cj2k {
+    box-sizing: border-box;
+    margin: 24px 0px 0px;
+    min-width: 0px;
+}
+@media screen and (min-width: 767px)
+
+.css-4hwal1 {
+    margin-bottom: 24px;
+}
+.css-4hwal1 {
+    box-sizing: border-box;
+    margin: 0px 0px 16px;
+    min-width: 0px;
+    border-radius: 40px 40px 0px 0px;
+    width: 100%;
+}
+
+@media screen and (min-width: 1023px)
+.css-yqkgry {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+@media screen and (min-width: 767px)
+.css-yqkgry {
+    padding: 24px;
+}
+
+.css-yqkgry {
+    box-sizing: border-box;
+    margin: 0px auto;
+    min-width: 0px;
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+    padding: 16px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-vurnku {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+}
+@media screen and (min-width: 767px)
+.css-1mzk4e3 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.css-1mzk4e3 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+}
+@media screen and (min-width: 1023px)
+.css-1q7zil0 {
+    padding-left: 0px;
+}
+
+@media screen and (min-width: 767px)
+.css-1q7zil0 {
+    padding-left: 24px;
+}
+.css-1q7zil0 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    width: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-left: 0px;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+}
+@media screen and (min-width: 1023px)
+.css-tmpver {
+    width: 384px;
+}
+
+@media screen and (min-width: 767px)
+.css-tmpver {
+    width: 352px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.css-tmpver {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.css-jnetm1 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    position: relative;
+}
+.css-62gygx {
+    box-sizing: border-box;
+    margin: 0px 0px 24px;
+    min-width: 0px;
+    width: 100%;
+    white-space: nowrap;
+    display: flex;
+    flex-direction: row;
+    overflow: scroll;
+}
+.css-ov54vn {
+    box-sizing: border-box;
+    margin: 0px;
+    cursor: pointer;
+    min-width: auto;
+}
+@media screen and (min-width: 767px)
+.css-1cahv52 {
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-right: 24px;
+}
+.css-1cahv52 {
+    box-sizing: border-box;
+    margin: 0px 16px 0px 0px;
+    min-width: 0px;
+    padding: 8px 16px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    user-select: none;
+    color: rgb(112, 122, 138);
+    border-radius: 4px;
+}
+.css-ov54vn {
+    box-sizing: border-box;
+    margin: 0px;
+    cursor: pointer;
+    min-width: auto;
+}
+.css-1cahv52.active {
+    background-color: rgb(245, 245, 245);
+    color: rgb(30, 35, 41);
+}
+
+.css-jnetm1 .active {
+    border-radius: 2px;
+}
+@media screen and (min-width: 767px)
+.css-1cahv52 {
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-right: 24px;
+}
+.css-1cahv52 {
+    box-sizing: border-box;
+    margin: 0px 16px 0px 0px;
+    min-width: 0px;
+    padding: 8px 16px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    user-select: none;
+    color: rgb(112, 122, 138);
+    border-radius: 4px;
+}
+.css-1bzb8nq {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: none;
+}
+.css-gnqbje {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: block;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+.css-vurnku {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+}
+.css-49vimp {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-5nv61p {
+    box-sizing: border-box;
+    margin: 16px 0px;
+    min-width: 0px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.css-1f5y901 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    height: 1px;
+    width: 136px;
+    background-color: rgb(234, 236, 239);
+}
+
+.css-1lp7wbm {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(112, 122, 138);
+}
+
+.css-1f5y901 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    height: 1px;
+    width: 136px;
+    background-color: rgb(234, 236, 239);
+}
+.css-yyvsvt {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.css-16vu25q {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    width: 100%;
+}
+.css-cziz5n {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    border-radius: 4px;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 48px;
+    background-color: rgb(11, 14, 17);
+    -webkit-box-pack: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.css-66ob46 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    width: 40px;
+    height: 40px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+.css-1bybaoo {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    max-width: 100%;
+    width: 16px;
+    height: 16px;
+}
+.css-183ttm4 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+.css-ch57he {
+    box-sizing: border-box;
+    margin: 16px 0px 0px;
+    min-width: 0px;
+    width: 100%;
+}
+.css-1pvx0c7 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    border-radius: 4px;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 48px;
+    border: 1px solid rgb(234, 236, 239);
+    -webkit-box-pack: center;
+    justify-content: center;
+    color: rgb(32, 38, 48);
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    width: 100%;
+}
+.css-1c8hl7y {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+}
+.css-1bybaoo {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    max-width: 100%;
+    width: 16px;
+    height: 16px;
+}
+.css-ario60 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+@media screen and (min-width: 767px)
+.css-10bsfyn {
+    margin-top: 16px;
+}
+.css-10bsfyn {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    flex-direction: column;
+}
+@media screen and (min-width: 767px)
+.css-sck6b1 {
+    margin-top: 8px;
+}
+.css-sck6b1 {
+    box-sizing: border-box;
+    margin: 24px 0px 0px;
+    min-width: 0px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
+    display: block;
+    color: rgb(201, 148, 0);
+}
+@media screen and (min-width: 767px)
+.css-1bsay3w {
+    margin-top: 8px;
+}
+.css-1bsay3w {
+    box-sizing: border-box;
+    margin: 24px 0px 0px;
+    min-width: 0px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
+    display: block;
+    color: rgb(201, 148, 0);
+}
+@media screen and (min-width: 1023px)
+.css-e6aa8f {
+    margin-left: 126px;
+    max-width: 282px;
+}
+
+@media screen and (min-width: 767px)
+.css-e6aa8f {
+    margin-left: 86px;
+    max-width: 212px;
+}
+.css-e6aa8f {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: flex;
+    max-width: 100%;
+    min-height: 267px;
+    text-align: center;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-1tsywzf {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    position: relative;
+    border-radius: 4px;
+    width: 180px;
+    height: 180px;
+    background-color: rgb(255, 255, 255);
+}
+.css-1ismdzn {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    background: url(https://bin.bnbstatic.com/static/images/accounts/bg-white.png);
+    box-shadow: rgb(24 26 32 / 10%) 0px 0px 1px, rgb(71 77 87 / 4%) 0px 3px 6px, rgb(24 26 32 / 4%) 0px 1px 2px;
+    opacity: 0.04;
+    border-radius: 4px;
+    width: 100%;
+    height: 100%;
+    padding: 12px;
+    text-align: center;
+}
+.css-134ban9 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    width: 100%;
+    z-index: 2;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    text-align: center;
+}
+
+.css-wbphw9 {
+    box-sizing: border-box;
+    margin: 0px 0px 8px;
+    min-width: 0px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+.css-l3iefk {
+    margin: 0px;
+    appearance: none;
+    user-select: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    box-sizing: border-box;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    padding: 6px 12px;
+    line-height: 20px;
+    word-break: keep-all;
+    color: rgb(30, 35, 41);
+    border-radius: 4px;
+    min-height: 24px;
+    border: none;
+    background-color: rgb(234, 236, 239);
+    height: 40px;
+    min-width: 106px;
+}
+.css-wz6kgg {
+    box-sizing: border-box;
+    margin: 24px 0px 0px;
+    min-width: 0px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+.css-1w2l5s {
+    box-sizing: border-box;
+    margin: 16px 0px 0px;
+    min-width: 0px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(71, 77, 87);
+}
+
+.css-s84t59 {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
+    color: rgb(201, 148, 0);
+}
+.css-3kcv4i {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    color: #474D57;
+}
+.css-1om5toz {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.css-ff02t7 {
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    cursor: pointer;
+}
+.css-162l5eo {
+    box-sizing: border-box;
+    margin: 0px 0px 0px 4px;
+    min-width: 0px;
+    color: rgb(183, 189, 198);
+    font-size: 24px;
+    fill: rgb(183, 189, 198);
+    width: 1em;
+    height: 1em;
+}
+.css-13xytqh {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    display: inline-flex;
+    position: relative;
+    -webkit-box-align: center;
+    align-items: center;
+    line-height: 1.6;
+    border: 1px solid rgb(234, 236, 239);
+    border-radius: 4px;
+    height: 48px;
+    background-color: transparent;
+    width: 100%;
+}
+.css-13xytqh input {
+    color: rgb(30, 35, 41);
+    font-size: 14px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.css-16fg16t {
+    box-sizing: border-box;
+    margin: 0px;
+    min-width: 0px;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    outline: none;
+    border: none;
+    background-color: inherit;
+    opacity: 1;
+}
+@media screen and (min-width: 1023px)
+.css-tmpver {
+    width: 384px;
+}
+
+@media screen and (min-width: 767px)
+.css-tmpver {
+    width: 352px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
